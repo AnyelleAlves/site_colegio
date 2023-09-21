@@ -36,7 +36,7 @@ css
         font-size: 20px;
         padding: 100px 0 80px 6%; /*    PADDING: TOP RIGHT BOTTOM LEFT;    */
         line-height: 30px;
-        color: #ffffff;
+        color: hsl(0, 0%, 3%);
        
     }
     .escola-titulo {
@@ -113,7 +113,7 @@ css
 
     footer {
         width: 100%;
-        background: #000000;
+        background: hwb(0 100% 0%);
     }
     .alurastart-footer {
         width: 150px;
@@ -157,7 +157,7 @@ css
         font-size: 1em;
         padding: 100px 0 80px 6%; /*    PADDING: TOP RIGHT BOTTOM LEFT;    */
         line-height: 30px;
-        color: #ffffff;
+        color: rgb(0, 0, 0);
     }
     .escola-titulo {
         font-size: 1.5em;
@@ -263,7 +263,7 @@ css
         font-size: 1em;
         padding: 100px 0 80px 6%; /*    PADDING: TOP RIGHT BOTTOM LEFT;    */
         line-height: 30px;
-        color: #ffffff;
+        color: hsl(0, 0%, 0%);
     }
     .escola-titulo {
         font-size: 1.5em;
