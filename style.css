@@ -1,8 +1,7 @@
-css
 
 :root {
-    --azul-fundo: #1045EF;
-    --amarelo-fundo: #FFC700;
+    --azul-fundo: #5d82ff;
+    --amarelo-fundo: #ffffff8f;
 }
 
 @media (min-width:920px){
