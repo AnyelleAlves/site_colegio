@@ -1,6 +1,6 @@
 
 :root {
-    --azul-fundo: #5d82ff;
+    --azul-fundo: #ffffff8f;
     --amarelo-fundo: #ffffff8f;
 }
 
@@ -9,7 +9,7 @@
         width: 100%;
         left: 0px;
         top: 0px;
-        background: var(--azul-fundo);
+        background: var(--branco);
         display: flex;
         justify-content: space-around;
         align-items: center;
